@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Les poussières de roche du lac Tekapo</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : zabou</title>
+		<link>./../comment-page-1/index.html#comment-11571</link>
+		<dc:creator><![CDATA[zabou]]></dc:creator>
+		<pubDate>Sat, 16 Mar 2013 14:37:02 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2183#comment-11571</guid>
+		<description><![CDATA[oh la chance ! c&#039;est trop beau. Je vais passer la journée à regarder vos photos et surtout eviter de regarder par ma fenetre !]]></description>
+		<content:encoded><![CDATA[<p>oh la chance ! c&rsquo;est trop beau. Je vais passer la journée à regarder vos photos et surtout eviter de regarder par ma fenetre !</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Cyril Dhenin sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11549</link>
+		<dc:creator><![CDATA[Cyril Dhenin sur Facebook]]></dc:creator>
+		<pubDate>Tue, 05 Mar 2013 09:26:13 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2183#comment-11549</guid>
+		<description><![CDATA[Oui, je crois qu&#039;on ne va pas s&#039;ennuyer en Nouvelle-Zélande...]]></description>
+		<content:encoded><![CDATA[<p>Oui, je crois qu&rsquo;on ne va pas s&rsquo;ennuyer en Nouvelle-Zélande&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Franck Chevallereau sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11548</link>
+		<dc:creator><![CDATA[Franck Chevallereau sur Facebook]]></dc:creator>
+		<pubDate>Tue, 05 Mar 2013 09:24:28 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2183#comment-11548</guid>
+		<description><![CDATA[C&#039;est beauuuu tout ca =)]]></description>
+		<content:encoded><![CDATA[<p>C&rsquo;est beauuuu tout ca =)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

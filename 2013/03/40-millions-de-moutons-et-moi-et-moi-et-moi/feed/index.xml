@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : 40 millions de moutons, et moi, et moi, et moi&#8230;</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : RenoFéroce</title>
+		<link>./../comment-page-1/index.html#comment-11575</link>
+		<dc:creator><![CDATA[RenoFéroce]]></dc:creator>
+		<pubDate>Sun, 17 Mar 2013 07:19:40 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2228#comment-11575</guid>
+		<description><![CDATA[Bêh, alors ! Impressionnant. Toute proportion gardée, on se croirait en Ecosse.]]></description>
+		<content:encoded><![CDATA[<p>Bêh, alors ! Impressionnant. Toute proportion gardée, on se croirait en Ecosse.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : bernard</title>
+		<link>./../comment-page-1/index.html#comment-11558</link>
+		<dc:creator><![CDATA[bernard]]></dc:creator>
+		<pubDate>Fri, 15 Mar 2013 20:13:57 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2228#comment-11558</guid>
+		<description><![CDATA[il y en a quand même deux qui ne voulaient pas être pris en photo et se sont baissés au moment du déclenchement : ya un trou au fond vers la droite et vers la gauche]]></description>
+		<content:encoded><![CDATA[<p>il y en a quand même deux qui ne voulaient pas être pris en photo et se sont baissés au moment du déclenchement : ya un trou au fond vers la droite et vers la gauche</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Gregory Aimar sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11557</link>
+		<dc:creator><![CDATA[Gregory Aimar sur Facebook]]></dc:creator>
+		<pubDate>Fri, 15 Mar 2013 06:36:09 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2228#comment-11557</guid>
+		<description><![CDATA[Bah... T&#039;es revenu en France ? looooooool ;)]]></description>
+		<content:encoded><![CDATA[<p>Bah&#8230; T&rsquo;es revenu en France ? looooooool 😉</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

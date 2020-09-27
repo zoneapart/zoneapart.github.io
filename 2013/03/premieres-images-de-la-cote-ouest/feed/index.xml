@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Premières images de la côte Ouest</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : Rémi</title>
+		<link>./../comment-page-1/index.html#comment-11625</link>
+		<dc:creator><![CDATA[Rémi]]></dc:creator>
+		<pubDate>Sat, 30 Mar 2013 14:27:18 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2255#comment-11625</guid>
+		<description><![CDATA[J&#039;aime bien ta photo de Bruce Bay.
+Mangez du chocolat ce WE, histoire de garder un pied dans les traditions françaises ;-) 
+PS : je ne sais pas si les hobbits ont le droit d&#039;en manger
+P²S : vous allez en Mordor également ?]]></description>
+		<content:encoded><![CDATA[<p>J&rsquo;aime bien ta photo de Bruce Bay.<br />
+Mangez du chocolat ce WE, histoire de garder un pied dans les traditions françaises 😉<br />
+PS : je ne sais pas si les hobbits ont le droit d&rsquo;en manger<br />
+P²S : vous allez en Mordor également ?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : DHENIN</title>
+		<link>./../comment-page-1/index.html#comment-11617</link>
+		<dc:creator><![CDATA[DHENIN]]></dc:creator>
+		<pubDate>Fri, 29 Mar 2013 13:39:40 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2255#comment-11617</guid>
+		<description><![CDATA[Merci pour le partage des paysages,nous nous partons pour le sud-ouest en FRANCE !!!!!!
+ lundi.
+
+Bisous]]></description>
+		<content:encoded><![CDATA[<p>Merci pour le partage des paysages,nous nous partons pour le sud-ouest en FRANCE !!!!!!<br />
+ lundi.</p>
+<p>Bisous</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

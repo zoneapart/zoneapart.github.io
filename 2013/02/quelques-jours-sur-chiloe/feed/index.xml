@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Quelques jours sur Chiloé</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : Cyril Dhenin sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11512</link>
+		<dc:creator><![CDATA[Cyril Dhenin sur Facebook]]></dc:creator>
+		<pubDate>Fri, 08 Feb 2013 20:31:09 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2049#comment-11512</guid>
+		<description><![CDATA[Oui, d&#039;un côté vue sur le Pacifique, de l&#039;autre sur la Cordillère des Andes (pas encore mis toutes les photos). Côté temps, habituellement, parait que c&#039;est pluvieux. Mais, nous, là, on a du mal à y croire ;-)]]></description>
+		<content:encoded><![CDATA[<p>Oui, d&rsquo;un côté vue sur le Pacifique, de l&rsquo;autre sur la Cordillère des Andes (pas encore mis toutes les photos). Côté temps, habituellement, parait que c&rsquo;est pluvieux. Mais, nous, là, on a du mal à y croire 😉</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Luc Ung sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11511</link>
+		<dc:creator><![CDATA[Luc Ung sur Facebook]]></dc:creator>
+		<pubDate>Fri, 08 Feb 2013 18:22:35 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2049#comment-11511</guid>
+		<description><![CDATA[Elle donne bien envie cette ile !]]></description>
+		<content:encoded><![CDATA[<p>Elle donne bien envie cette ile !</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

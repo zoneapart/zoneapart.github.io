@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Sur la route</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : Ghislaine Bras</title>
+		<link>./../comment-page-1/index.html#comment-11326</link>
+		<dc:creator><![CDATA[Ghislaine Bras]]></dc:creator>
+		<pubDate>Thu, 27 Dec 2012 18:47:58 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1801#comment-11326</guid>
+		<description><![CDATA[Merci de nous faire partager votre voyage..., vos photos et textes sont de grandes qualités, je retrouve mes endroits favoris grâce à vous... Merci !]]></description>
+		<content:encoded><![CDATA[<p>Merci de nous faire partager votre voyage&#8230;, vos photos et textes sont de grandes qualités, je retrouve mes endroits favoris grâce à vous&#8230; Merci !</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : mam'zelle Pirate</title>
+		<link>./../comment-page-1/index.html#comment-11322</link>
+		<dc:creator><![CDATA[mam'zelle Pirate]]></dc:creator>
+		<pubDate>Wed, 26 Dec 2012 10:01:32 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1801#comment-11322</guid>
+		<description><![CDATA[merci merci merci de nous faire partager tout ça ! c&#039;est trop chouette de vous lire !]]></description>
+		<content:encoded><![CDATA[<p>merci merci merci de nous faire partager tout ça ! c&rsquo;est trop chouette de vous lire !</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : stephanie daniel</title>
+		<link>./../comment-page-1/index.html#comment-11290</link>
+		<dc:creator><![CDATA[stephanie daniel]]></dc:creator>
+		<pubDate>Sun, 23 Dec 2012 19:25:02 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1801#comment-11290</guid>
+		<description><![CDATA[super je vais progresser en Géographie!]]></description>
+		<content:encoded><![CDATA[<p>super je vais progresser en Géographie!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Christophe Daniel sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11289</link>
+		<dc:creator><![CDATA[Christophe Daniel sur Facebook]]></dc:creator>
+		<pubDate>Sun, 23 Dec 2012 19:08:25 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1801#comment-11289</guid>
+		<description><![CDATA[on the road again !!!!! attention au pagny qui peut trainer. super paysage !!!!]]></description>
+		<content:encoded><![CDATA[<p>on the road again !!!!! attention au pagny qui peut trainer. super paysage !!!!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

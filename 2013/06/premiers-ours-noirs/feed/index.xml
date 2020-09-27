@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Premiers ours noirs</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : zabou</title>
+		<link>./../comment-page-1/index.html#comment-11732</link>
+		<dc:creator><![CDATA[zabou]]></dc:creator>
+		<pubDate>Mon, 10 Jun 2013 07:58:40 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2466#comment-11732</guid>
+		<description><![CDATA[Meme pas peur ! des ours bruns j&#039;en ai plein chez moi, bon ok les miens sont en peluche.]]></description>
+		<content:encoded><![CDATA[<p>Meme pas peur ! des ours bruns j&rsquo;en ai plein chez moi, bon ok les miens sont en peluche.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Franck Chevallereau sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11730</link>
+		<dc:creator><![CDATA[Franck Chevallereau sur Facebook]]></dc:creator>
+		<pubDate>Sun, 09 Jun 2013 09:42:49 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2466#comment-11730</guid>
+		<description><![CDATA[J&#039;en veux un !! =) Et un puma, aussi; c&#039;est si doux. enfin euh... peut-être pas]]></description>
+		<content:encoded><![CDATA[<p>J&rsquo;en veux un !! =) Et un puma, aussi; c&rsquo;est si doux. enfin euh&#8230; peut-être pas</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

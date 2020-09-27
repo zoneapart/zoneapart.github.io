@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Noël à Esquel parce que ça rime</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : Cyril Dhénin</title>
+		<link>./../comment-page-1/index.html#comment-11386</link>
+		<dc:creator><![CDATA[Cyril Dhénin]]></dc:creator>
+		<pubDate>Sat, 05 Jan 2013 01:34:50 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1843#comment-11386</guid>
+		<description><![CDATA[En gros Clok, le woofing permet d&#039;échanger un toit et des repas dans un lieu contre quelques travaux. Cela doit rester un échange de services (pas de contrat, pas d&#039;échanges d&#039;argent). On croise pas mal de monde qui voyage ainsi pour financer les étapes.]]></description>
+		<content:encoded><![CDATA[<p>En gros Clok, le woofing permet d&rsquo;échanger un toit et des repas dans un lieu contre quelques travaux. Cela doit rester un échange de services (pas de contrat, pas d&rsquo;échanges d&rsquo;argent). On croise pas mal de monde qui voyage ainsi pour financer les étapes.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Clok</title>
+		<link>./../comment-page-1/index.html#comment-11356</link>
+		<dc:creator><![CDATA[Clok]]></dc:creator>
+		<pubDate>Tue, 01 Jan 2013 15:46:31 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1843#comment-11356</guid>
+		<description><![CDATA[Euh… &lt;i&gt;Woofing?&lt;/i&gt; Késako?]]></description>
+		<content:encoded><![CDATA[<p>Euh… <i>Woofing?</i> Késako?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

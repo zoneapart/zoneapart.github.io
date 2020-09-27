@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>matos photo &#8211; [Zone à part] PhotoBlog</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Mon, 31 Dec 2018 09:41:48 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>L’Antarctique avec le X-E1 et l’E-M5</title>
+		<link>./../../../2013/01/lantarctique-avec-le-x-e1-et-le-m5/index.html</link>
+		<comments>./../../../2013/01/lantarctique-avec-le-x-e1-et-le-m5/index.html#comments</comments>
+		<pubDate>Sat, 19 Jan 2013 15:10:20 +0000</pubDate>
+		<dc:creator><![CDATA[Cyril Dhénin]]></dc:creator>
+				<category><![CDATA[2013 - Antarctique]]></category>
+		<category><![CDATA[matos photo]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=1983</guid>
+		<description><![CDATA[Oyez, oyez, lecteurs, cette note est avant tout destinée aux geeks de la photo et notamment à mes connaissances de Fuji-x.com et du Forum Olympus France, deux sites que j’ai pas mal parcourus avant ce voyage. Si vous vous fichez comme de l’an 40 du matos photo, sautez ces lignes et jetez un coup d’oeil [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Oyez, oyez, lecteurs, cette note est avant tout destinée aux geeks de la photo et notamment à mes connaissances de <a href="http://www.fuji-x.com/">Fuji-x.com</a> et du <a href="http://www.forum-olympus-france.com/">Forum Olympus France</a>, deux sites que j’ai pas mal parcourus avant ce voyage. Si vous vous fichez comme de l’an 40 du matos photo, sautez ces lignes et jetez un coup d’oeil éventuellement aux photos de cette note (non publiées dans les notes précédentes).</p>
+<p>Comme promis donc, voici un retour d’expérience sur l’usage conjoint d’un Fuji E-X1 et d’un Olympus E-M5. L’idée ici n’est pas de dresser un comparatif « E-X1 versus E-M5 » car j’utilise ces appareils dans des situations bien distinctes, mais plutôt de souligner leurs atouts et contraintes dans ces contextes. Grosso modo, le Fuji est principalement utilisé avec le zoom 18-55 pour des photos de paysage tandis qu’un 75-300 (éq 150-600 donc) est vissé en permanence sur l’Olympus pour de l’animalier.</p>
+<p>Autre précision concernant les conditions de prise de vue : l’Antarctique, cela veut dire de la lumière. Beaucoup de lumière. Et, avec la glace, la mesure d’exposition par défaut des deux boîtiers est sans surprise à côté de la plaque. Pour retrouver la blancheur de la neige, le bleu éclatant de la glace, il faut donc surexposer, de 1 voire de 2 diaphs. Dans ce contexte, on apprécie de pouvoir afficher l’histogramme lors de la prise de vue (ce que les 2 appareils permettent) pour tirer à droite l’expo en évitant de brûler les hautes lumières. Un p’tit plus sur ce sujet avec l’Olympus et sa fonction de peaking des hautes lumières (les zones brûlées brillent lors de la prise de vue). A noter que cette fonction semble au menu du X100s. Donc, pas de souci avec l’Oly comme avec le Fuji pour corriger l’expo. Pour illustrer 2 images :</p>
+<p><a title="SansSurExp de cdhenin, sur Flickr" href="http://www.flickr.com/photos/cdhenin/8395258616/"><img src="http://farm9.staticflickr.com/8494/8395258616_e984fee6e0_z.jpg" alt="SansSurExp" width="640" height="427" /></a><br />
+Prise de vue sans correction d’expo (avec l’Oly)</p>
+<p><a title="AvecSurExp de cdhenin, sur Flickr" href="http://www.flickr.com/photos/cdhenin/8394177361/"><img src="http://farm9.staticflickr.com/8330/8394177361_8658c891db_z.jpg" alt="AvecSurExp" width="640" height="427" /></a><br />
+Expo corrigée (+1 diaph + Correc noir et blanc dans LR sur le Raw)</p>
+<p>&gt; Maintenant, attardons nous sur le X-E1.</p>
+<p>Pour rappel, j’ai utilisé au Groenland un X-Pro1 qui m’avait donné toute satisfaction. Ici, en Patagonie et notamment en Antarctique, le sentiment est (un peu) plus mitigé. Plusieurs raisons à cela :</p>
+<p>1 &#8211; Le traitement Jpeg du boîtier<br />
+Au Groenland, le rendu Velvia était cohérent avec les paysages et les servait à merveille. Ici, ça fonctionne moins. J’ai un peu creusé le sujet et j’en suis arrivé à la conclusion que le Velvia fonctionne bien avec des photos équilibrées en bleu et vert (c’est le cas des paysages du Groenland) mais moins bien avec des images où le bleu domine. Dans ce dernier cas, la colorimétrie tire excessivement sur les bleus et dénature l’image (un voile bleuté semble recouvrir toute l’image). Les autres rendus Jpeg du boîtier ne m’ont pas inspiré beaucoup plus. Bref, j’ai du coup peu utilisé les Jpeg produits par le boîtier et me suis débrouillé la plupart du temps avec les Raw traités dans Lightroom. Pour de l’affichage écran, c’est suffisant malgré le traitement approximatif des Raw du capteur X-Trans par Lightroom. Quand viendra l’heure de l’impression, je trouverai une autre solution je pense (Capture One ?) sauf si la situation évolue d’ici là côté LR. J’ai donc peaufiné un réglage (en jouant sur l’expo, les blancs, les noirs, la clarté, la vibrance) pour homogénéiser les Raw du Fuji.</p>
+<p>2 &#8211; L’autofocus<br />
+Au Groenland, pas de souci mais ici, en Antarctique, (mauvaise) surprise, ça patine sévère. Pour accrocher la glace des icebergs depuis un Zodiac en mouvement, il faut vraiment aider le boîtier en visant une ligne de contraste bien nette car en ciblant le relief blanc/bleu des glaciers l’autofocus semble aveugle&#8230; Je m’estime plutôt rodé à l’exercice mais là, faut l’avouer, dans ce décor, j’ai dû m’y reprendre bien plus qu’à l’habitude et j’ai manqué (définitivement) quelques clichés. Sur ce sujet, Fuji a encore du boulot&#8230; Clairement, ce point doit être rébarbatif pour des utilisateurs débutants.</p>
+<p>Ces 2 contraintes posées, le plaisir de saisir des images avec le Fuji reste intact. Je veux parler ici de l’ergonomie globale de la prise de vue (notamment en priorité Ouverture) et de la « manœuvrabilité » de l’ensemble. Certes, j’ai manqué quelques photos à cause des ratés de l’autofocus mais j’ai sorti l’appareil plus souvent que mes camarades de jeu équipés d’un Reflex. Glissé dans un petit sac étanche attaché à la ceinture, le Fuji se fait oublier, en Zodiac comme en randonnée, et entre en action très rapidement.</p>
+<p>&gt; Venons-en à l’Olympus</p>
+<p>Précision : c’est mon premier Oly. Je découvre donc l’esprit Oly, l’ergonomie du boîtier, etc. L’adoption est rapide, les menus étant très explicites. J’ai pris le temps de configurer les boutons « fonctions » pour accéder à mes réglages les plus fréquents (ISO et verrouillage de l’expo en l’occurrence) et pour ne pas perturber trop mes réflexes du Fuji à l’Oly.</p>
+<p>Bon, la grosse bonne surprise (notamment par comparaison avec le Fuji), c’est clairement l’autofocus. Certes, ce n’est pas aussi véloce qu’un Reflex quand il s’agit d’accrocher un oiseau en plein vol pour faire un joli filé, mais ça fonctionne bien et même très bien. Avec le 75-300 utilisé, je n’ai eu que très peu de patinage. Avec un poids et un encombrement très réduits, on se retrouve donc avec une focale de 150-600 mm (eq 24&#215;36) tout à fait opérationnelle. Et en prenant soin de jouer avec les distances (entre le sujet et soi, entre le sujet et l’arrière plan), on obtient de jolies choses.</p>
+<p>Côté qualité des fichiers obtenus, c’est très honnête&#8230; sans être l’extase. Là où le Fuji tire sur le cyan, l’Oly lui donne clairement une dominante magenta. Même avec des paramètres neutres, la dominante reste très (trop) présente dans les Jpeg. Là aussi, j’ai donc plutôt misé sur les Raw en jouant sur quelques corrections d’expo/noir/blanc/clarté/vibrance pour rendre les images plus « pêchues ».</p>
+<p>Cela dit, même en travaillant les Raw de l’Oly, je n’arrive pas à les amener au niveau des fichiers du Fuji. A un moment, j’imagine que la taille du capteur impose ses contraintes (pour rappel X-E1 = capteur de taille APS-C, Oly = capteur micro 4/3). Il manque un p’tit quelque chose aux clichés de l’Oly du côté de la profondeur, du relief et cela même avec un autre objo que le 75-300 et en essayant d’utiliser ces objos dans des plages d’ouverture optimales. Et puis, par comparaison avec ceux du Fuji, je trouve que les clichés de l’Oly conservent un léger bruit même à faible ISO.</p>
+<p>Pour résumer, sur le strict terrain de la qualité des fichiers obtenus, le X-E1 exploite pleinement son capteur (sa taille et sa matrice X-Trans originale). En outre, le zoom 18-55 couvre bien les focales que j’utilise la plupart du temps pour les photos de scène et paysages. Bref, il y a, à mon sens, un vrai plaisir de la prise de vue avec cet appareil qui reste mon gros coup de coeur. L’Oly ne démérite pas, loin de là (j’aimerais bien que le Fuji puisse hériter de son autofocus ;-)) mais j’ai un rapport plus pratique/fonctionnel avec lui. Cela dit, la complémentarité que j’imaginais avant de partir (le Fuji en boîtier principal et l’Oly en boîtier secondaire, notamment pour les focales longues) s’est installée sur le terrain. Et&#8230; c’est déjà pas si mal. Bonnes photos à tous.</p>
+<p><a title="FujiRawLR-0940 de cdhenin, sur Flickr" href="http://www.flickr.com/photos/cdhenin/8394004064/"><img src="http://farm9.staticflickr.com/8053/8394004064_5aecc9ec22_z.jpg" alt="FujiRawLR-0940" width="640" height="427" /></a><br />
+Photo prise avec le X-E1. Raw traité dans LR.</p>
+<p><a title="FujiJpegDirectBoitier-0851 de cdhenin, sur Flickr" href="http://www.flickr.com/photos/cdhenin/8394006600/"><img src="http://farm9.staticflickr.com/8362/8394006600_f70367a02f_z.jpg" alt="FujiJpegDirectBoitier-0851" width="640" height="427" /></a><br />
+Photo prise avec le X-E1. Jpeg direct boîtier.</p>
+<p><a title="OlympusRawLR-1120260 de cdhenin, sur Flickr" href="http://www.flickr.com/photos/cdhenin/8393996120/"><img src="http://farm9.staticflickr.com/8080/8393996120_b3bd01beef_z.jpg" alt="OlympusRawLR-1120260" width="640" height="427" /></a>`<br />
+Photo prise avec l’Oly. Raw traité dans LR.</p>
+<p><a title="OlympusJpegDirectBoitier-1130282 de cdhenin, sur Flickr" href="http://www.flickr.com/photos/cdhenin/8394000160/"><img src="http://farm9.staticflickr.com/8089/8394000160_f9e3c1691d_z.jpg" alt="OlympusJpegDirectBoitier-1130282" width="640" height="427" /></a><br />
+Photo prise avec l’Oly. Jpeg direct boîtier.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../2013/01/lantarctique-avec-le-x-e1-et-le-m5/feed/index.html</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+	</channel>
+</rss>

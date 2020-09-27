@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Chez Mark</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : RenoFéroce</title>
+		<link>./../comment-page-1/index.html#comment-11574</link>
+		<dc:creator><![CDATA[RenoFéroce]]></dc:creator>
+		<pubDate>Sun, 17 Mar 2013 07:16:17 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2232#comment-11574</guid>
+		<description><![CDATA[Une belle rencontre. La photo de Mark est très chouette.]]></description>
+		<content:encoded><![CDATA[<p>Une belle rencontre. La photo de Mark est très chouette.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : zabou</title>
+		<link>./../comment-page-1/index.html#comment-11566</link>
+		<dc:creator><![CDATA[zabou]]></dc:creator>
+		<pubDate>Sat, 16 Mar 2013 14:20:39 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2232#comment-11566</guid>
+		<description><![CDATA[belle rencontre]]></description>
+		<content:encoded><![CDATA[<p>belle rencontre</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Soph Sentis sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11564</link>
+		<dc:creator><![CDATA[Soph Sentis sur Facebook]]></dc:creator>
+		<pubDate>Sat, 16 Mar 2013 10:07:31 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2232#comment-11564</guid>
+		<description><![CDATA[Une autre belle rencontre ;)]]></description>
+		<content:encoded><![CDATA[<p>Une autre belle rencontre 😉</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Cyril Dhenin sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11560</link>
+		<dc:creator><![CDATA[Cyril Dhenin sur Facebook]]></dc:creator>
+		<pubDate>Sat, 16 Mar 2013 07:58:56 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2232#comment-11560</guid>
+		<description><![CDATA[Avec plaisir pour rencontrer d&#039;autres &quot;Mark&quot; ;-)]]></description>
+		<content:encoded><![CDATA[<p>Avec plaisir pour rencontrer d&rsquo;autres « Mark » 😉</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Racidoukoum Ghayrkafi sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11559</link>
+		<dc:creator><![CDATA[Racidoukoum Ghayrkafi sur Facebook]]></dc:creator>
+		<pubDate>Sat, 16 Mar 2013 07:55:51 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2232#comment-11559</guid>
+		<description><![CDATA[La photo de Mark est juste magnifique. En espérant un jour te présenter les Larbi, Mohamed et Abdellatif, les Mark de mon village.]]></description>
+		<content:encoded><![CDATA[<p>La photo de Mark est juste magnifique. En espérant un jour te présenter les Larbi, Mohamed et Abdellatif, les Mark de mon village.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

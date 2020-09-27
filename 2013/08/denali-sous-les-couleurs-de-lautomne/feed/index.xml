@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Denali sous les couleurs de l&#8217;automne</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : Clok</title>
+		<link>./../comment-page-1/index.html#comment-11844</link>
+		<dc:creator><![CDATA[Clok]]></dc:creator>
+		<pubDate>Sat, 31 Aug 2013 11:33:41 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2686#comment-11844</guid>
+		<description><![CDATA[Hey, vous deux! 
+Des &lt;b&gt;gros bizoux&lt;/b&gt; d’anniversaire à Valy! :* :* :* :* Et de moins gros pour Cyril! :*
+;)]]></description>
+		<content:encoded><![CDATA[<p>Hey, vous deux!<br />
+Des <b>gros bizoux</b> d’anniversaire à Valy! :* :* :* :* Et de moins gros pour Cyril! :*<br />
+😉</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Luc Ung sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11832</link>
+		<dc:creator><![CDATA[Luc Ung sur Facebook]]></dc:creator>
+		<pubDate>Thu, 29 Aug 2013 06:28:38 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2686#comment-11832</guid>
+		<description><![CDATA[Purée ces couleurs !!! Vivement la Porcupine ! :)]]></description>
+		<content:encoded><![CDATA[<p>Purée ces couleurs !!! Vivement la Porcupine ! 🙂</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

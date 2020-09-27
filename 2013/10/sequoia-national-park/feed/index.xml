@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Chez les géants</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : Kareen Frascaria sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11982</link>
+		<dc:creator><![CDATA[Kareen Frascaria sur Facebook]]></dc:creator>
+		<pubDate>Mon, 28 Oct 2013 18:00:30 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2857#comment-11982</guid>
+		<description><![CDATA[j&#039;ai le souvenir que ces arbres craquent beaucoup donnant une sorte de concert assez incongru....pas sûr de pouvoir dormir à côté.... :)]]></description>
+		<content:encoded><![CDATA[<p>j&rsquo;ai le souvenir que ces arbres craquent beaucoup donnant une sorte de concert assez incongru&#8230;.pas sûr de pouvoir dormir à côté&#8230;. 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Hervé Kerivel sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11981</link>
+		<dc:creator><![CDATA[Hervé Kerivel sur Facebook]]></dc:creator>
+		<pubDate>Mon, 28 Oct 2013 15:53:51 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2857#comment-11981</guid>
+		<description><![CDATA[Tu me rappelles un voyage de jeunesse.]]></description>
+		<content:encoded><![CDATA[<p>Tu me rappelles un voyage de jeunesse.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

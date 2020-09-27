@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Météo, shutdown et autres variables</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : Cyril Dhénin</title>
+		<link>./../comment-page-1/index.html#comment-11902</link>
+		<dc:creator><![CDATA[Cyril Dhénin]]></dc:creator>
+		<pubDate>Wed, 02 Oct 2013 04:41:59 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2781#comment-11902</guid>
+		<description><![CDATA[Monument Valley mais aussi le Lac Powell, Antelope Canyon et plein d&#039;autres choses en fait. Bref, ça devrait aller ;-) Bon, j&#039;avoue, si c&#039;était arrivé plus tôt et que cela nous avait interdit l&#039;accès à Denali en Alaska, je l&#039;aurais eu mauvaise...]]></description>
+		<content:encoded><![CDATA[<p>Monument Valley mais aussi le Lac Powell, Antelope Canyon et plein d&rsquo;autres choses en fait. Bref, ça devrait aller 😉 Bon, j&rsquo;avoue, si c&rsquo;était arrivé plus tôt et que cela nous avait interdit l&rsquo;accès à Denali en Alaska, je l&rsquo;aurais eu mauvaise&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Olivier</title>
+		<link>./../comment-page-1/index.html#comment-11901</link>
+		<dc:creator><![CDATA[Olivier]]></dc:creator>
+		<pubDate>Wed, 02 Oct 2013 04:36:16 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2781#comment-11901</guid>
+		<description><![CDATA[Vous savez quoi? J&#039;ai tout de suite pensé à vous quand j&#039;ai entendu pour le shutdown! 
+Il vous reste aussi Monument Valley non? De mémoire c&#039;est administré par les Indiens? 
+Bises à tous les deux, bonne continuation]]></description>
+		<content:encoded><![CDATA[<p>Vous savez quoi? J&rsquo;ai tout de suite pensé à vous quand j&rsquo;ai entendu pour le shutdown!<br />
+Il vous reste aussi Monument Valley non? De mémoire c&rsquo;est administré par les Indiens?<br />
+Bises à tous les deux, bonne continuation</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

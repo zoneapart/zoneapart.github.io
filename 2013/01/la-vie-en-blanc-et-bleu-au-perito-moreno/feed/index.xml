@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : La vie en blanc et bleu au Perito Moreno</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : Magaud</title>
+		<link>./../comment-page-1/index.html#comment-11433</link>
+		<dc:creator><![CDATA[Magaud]]></dc:creator>
+		<pubDate>Thu, 10 Jan 2013 23:20:55 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1859#comment-11433</guid>
+		<description><![CDATA[bluffée ! je croyais que j&#039;étais pas trop branchée glaciers, montagnes... Mais ces photos ! Vs me donnez envie de faire des expé ! Enjoy ! Excellente année à toi et Val !
+Bizz]]></description>
+		<content:encoded><![CDATA[<p>bluffée ! je croyais que j&rsquo;étais pas trop branchée glaciers, montagnes&#8230; Mais ces photos ! Vs me donnez envie de faire des expé ! Enjoy ! Excellente année à toi et Val !<br />
+Bizz</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Cyril Dhénin</title>
+		<link>./../comment-page-1/index.html#comment-11387</link>
+		<dc:creator><![CDATA[Cyril Dhénin]]></dc:creator>
+		<pubDate>Sat, 05 Jan 2013 01:35:48 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1859#comment-11387</guid>
+		<description><![CDATA[Moi aussi ;-)]]></description>
+		<content:encoded><![CDATA[<p>Moi aussi 😉</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Clok</title>
+		<link>./../comment-page-1/index.html#comment-11354</link>
+		<dc:creator><![CDATA[Clok]]></dc:creator>
+		<pubDate>Tue, 01 Jan 2013 15:38:27 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1859#comment-11354</guid>
+		<description><![CDATA[Oh, j’adore les bleus des deux nommées «entre les arbres».]]></description>
+		<content:encoded><![CDATA[<p>Oh, j’adore les bleus des deux nommées «entre les arbres».</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

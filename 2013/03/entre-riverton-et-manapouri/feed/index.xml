@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Entre Riverton et Manapouri</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : Alexandre Doux sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11565</link>
+		<dc:creator><![CDATA[Alexandre Doux sur Facebook]]></dc:creator>
+		<pubDate>Sat, 16 Mar 2013 09:34:59 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2234#comment-11565</guid>
+		<description><![CDATA[super couleurs]]></description>
+		<content:encoded><![CDATA[<p>super couleurs</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Racidoukoum Ghayrkafi sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11563</link>
+		<dc:creator><![CDATA[Racidoukoum Ghayrkafi sur Facebook]]></dc:creator>
+		<pubDate>Sat, 16 Mar 2013 08:10:08 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2234#comment-11563</guid>
+		<description><![CDATA[Ah mais je te crois, Totoshop c&#039;est pour les non- puristes:-)]]></description>
+		<content:encoded><![CDATA[<p>Ah mais je te crois, Totoshop c&rsquo;est pour les non- puristes:-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Cyril Dhenin sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11562</link>
+		<dc:creator><![CDATA[Cyril Dhenin sur Facebook]]></dc:creator>
+		<pubDate>Sat, 16 Mar 2013 07:59:48 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2234#comment-11562</guid>
+		<description><![CDATA[Et c&#039;est promis pas de Toshop dans l&#039;affaire. Jpeg direct de notre boitier préféré ;-)]]></description>
+		<content:encoded><![CDATA[<p>Et c&rsquo;est promis pas de Toshop dans l&rsquo;affaire. Jpeg direct de notre boitier préféré 😉</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Racidoukoum Ghayrkafi sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11561</link>
+		<dc:creator><![CDATA[Racidoukoum Ghayrkafi sur Facebook]]></dc:creator>
+		<pubDate>Sat, 16 Mar 2013 07:57:59 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2234#comment-11561</guid>
+		<description><![CDATA[Le coucher de soleil est à tomber!]]></description>
+		<content:encoded><![CDATA[<p>Le coucher de soleil est à tomber!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

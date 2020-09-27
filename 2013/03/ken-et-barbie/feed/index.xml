@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Ken et Barbie</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : Cyril Dhenin sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11547</link>
+		<dc:creator><![CDATA[Cyril Dhenin sur Facebook]]></dc:creator>
+		<pubDate>Mon, 04 Mar 2013 20:06:06 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2158#comment-11547</guid>
+		<description><![CDATA[Soph... raccroche ;-) Bisous]]></description>
+		<content:encoded><![CDATA[<p>Soph&#8230; raccroche 😉 Bisous</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Antoine Jost sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11545</link>
+		<dc:creator><![CDATA[Antoine Jost sur Facebook]]></dc:creator>
+		<pubDate>Mon, 04 Mar 2013 19:42:55 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2158#comment-11545</guid>
+		<description><![CDATA[Elle n&#039;est pas jolie la Barbie !  ;-)]]></description>
+		<content:encoded><![CDATA[<p>Elle n&rsquo;est pas jolie la Barbie !  😉</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Soph Sentis sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11543</link>
+		<dc:creator><![CDATA[Soph Sentis sur Facebook]]></dc:creator>
+		<pubDate>Mon, 04 Mar 2013 10:52:03 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2158#comment-11543</guid>
+		<description><![CDATA[Eh eh... 2 semaines dans le texte. Et 10 pour la légende. Vous vouliez tester les SR (ou ex) qui vous lisent... ;)]]></description>
+		<content:encoded><![CDATA[<p>Eh eh&#8230; 2 semaines dans le texte. Et 10 pour la légende. Vous vouliez tester les SR (ou ex) qui vous lisent&#8230; 😉</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

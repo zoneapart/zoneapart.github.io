@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : La vie à bord du Sea Spirit</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : Cyril Dhénin</title>
+		<link>./../comment-page-1/index.html#comment-11638</link>
+		<dc:creator><![CDATA[Cyril Dhénin]]></dc:creator>
+		<pubDate>Tue, 02 Apr 2013 19:41:29 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1949#comment-11638</guid>
+		<description><![CDATA[Tu regardes les photos d&#039;Antarctique. Ah oui, t&#039;as du retard ;-) Bon, en même temps, c&#039;est fait pour être lu quand on veut et dans le sens qu&#039;on veut ce blog ;-) Bises]]></description>
+		<content:encoded><![CDATA[<p>Tu regardes les photos d&rsquo;Antarctique. Ah oui, t&rsquo;as du retard 😉 Bon, en même temps, c&rsquo;est fait pour être lu quand on veut et dans le sens qu&rsquo;on veut ce blog 😉 Bises</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Clok</title>
+		<link>./../comment-page-1/index.html#comment-11635</link>
+		<dc:creator><![CDATA[Clok]]></dc:creator>
+		<pubDate>Tue, 02 Apr 2013 10:38:28 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1949#comment-11635</guid>
+		<description><![CDATA[Ah, j&#039;aime beaucoup la tôf de manchots. :p]]></description>
+		<content:encoded><![CDATA[<p>Ah, j&rsquo;aime beaucoup la tôf de manchots. :p</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Céline</title>
+		<link>./../comment-page-1/index.html#comment-11477</link>
+		<dc:creator><![CDATA[Céline]]></dc:creator>
+		<pubDate>Mon, 28 Jan 2013 09:13:57 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1949#comment-11477</guid>
+		<description><![CDATA[Ce que j&#039;aime bien sur la photo de votre cabine c&#039;est le contraste entre les boiseries vernies et le bagage ultrachic qu&#039;on voit dans le reflet de la vitre.]]></description>
+		<content:encoded><![CDATA[<p>Ce que j&rsquo;aime bien sur la photo de votre cabine c&rsquo;est le contraste entre les boiseries vernies et le bagage ultrachic qu&rsquo;on voit dans le reflet de la vitre.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

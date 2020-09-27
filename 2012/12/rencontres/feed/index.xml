@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Rencontres</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : Melody Szymczak sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11350</link>
+		<dc:creator><![CDATA[Melody Szymczak sur Facebook]]></dc:creator>
+		<pubDate>Tue, 01 Jan 2013 13:31:18 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1845#comment-11350</guid>
+		<description><![CDATA[Sa vie sur le vélo, ca ne doit pas être léger tout de même... Sil prend les stagiaires je postule :) ]]></description>
+		<content:encoded><![CDATA[<p>Sa vie sur le vélo, ca ne doit pas être léger tout de même&#8230; Sil prend les stagiaires je postule 🙂 </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Cyril Dhenin sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11340</link>
+		<dc:creator><![CDATA[Cyril Dhenin sur Facebook]]></dc:creator>
+		<pubDate>Sun, 30 Dec 2012 12:07:49 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1845#comment-11340</guid>
+		<description><![CDATA[Ouais... Ce gars, Olivier, est vraiment incroyable. Près de 2000 km parcourus en Argentine/Chili juste avec les sacs qui tiennent sur le vélo, sachant qu&#039;il embarque tente, réchaud, matos et pièces de réparation du vélo]]></description>
+		<content:encoded><![CDATA[<p>Ouais&#8230; Ce gars, Olivier, est vraiment incroyable. Près de 2000 km parcourus en Argentine/Chili juste avec les sacs qui tiennent sur le vélo, sachant qu&rsquo;il embarque tente, réchaud, matos et pièces de réparation du vélo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Melody Szymczak sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11338</link>
+		<dc:creator><![CDATA[Melody Szymczak sur Facebook]]></dc:creator>
+		<pubDate>Sat, 29 Dec 2012 17:50:28 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1845#comment-11338</guid>
+		<description><![CDATA[des paysages qui défilent, des possessions réduites à un seul et même sac... le rêve]]></description>
+		<content:encoded><![CDATA[<p>des paysages qui défilent, des possessions réduites à un seul et même sac&#8230; le rêve</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : On aime ce pays où&#8230;</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : zabou</title>
+		<link>./../comment-page-1/index.html#comment-11661</link>
+		<dc:creator><![CDATA[zabou]]></dc:creator>
+		<pubDate>Sun, 14 Apr 2013 12:37:47 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2309#comment-11661</guid>
+		<description><![CDATA[waouh ! ma-gni-fi-que ! j&#039;adooooore la plage]]></description>
+		<content:encoded><![CDATA[<p>waouh ! ma-gni-fi-que ! j&rsquo;adooooore la plage</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Franck Chevallereau sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11659</link>
+		<dc:creator><![CDATA[Franck Chevallereau sur Facebook]]></dc:creator>
+		<pubDate>Sun, 14 Apr 2013 07:42:20 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2309#comment-11659</guid>
+		<description><![CDATA[c&#039;est beauuuu !]]></description>
+		<content:encoded><![CDATA[<p>c&rsquo;est beauuuu !</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

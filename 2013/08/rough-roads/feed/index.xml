@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Rough roads</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : Thomas Morisse sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11822</link>
+		<dc:creator><![CDATA[Thomas Morisse sur Facebook]]></dc:creator>
+		<pubDate>Sun, 18 Aug 2013 05:17:46 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2667#comment-11822</guid>
+		<description><![CDATA[C&#039;est le genre de route que j&#039;adore... c&#039;est l&#039;aventure juste comme il faut.]]></description>
+		<content:encoded><![CDATA[<p>C&rsquo;est le genre de route que j&rsquo;adore&#8230; c&rsquo;est l&rsquo;aventure juste comme il faut.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Kareen Frascaria sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11821</link>
+		<dc:creator><![CDATA[Kareen Frascaria sur Facebook]]></dc:creator>
+		<pubDate>Sun, 18 Aug 2013 04:40:06 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2667#comment-11821</guid>
+		<description><![CDATA[merci de nous faire voyager et rêver comme ça....:)]]></description>
+		<content:encoded><![CDATA[<p>merci de nous faire voyager et rêver comme ça&#8230;.:)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

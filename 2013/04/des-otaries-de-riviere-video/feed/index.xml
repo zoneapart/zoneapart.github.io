@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Des otaries&#8230; de rivière (vidéo)</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : Morisse Jean</title>
+		<link>./../comment-page-1/index.html#comment-11658</link>
+		<dc:creator><![CDATA[Morisse Jean]]></dc:creator>
+		<pubDate>Fri, 12 Apr 2013 10:28:32 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2285#comment-11658</guid>
+		<description><![CDATA[Un reportage digne d&#039;un Cousteau,quand est ce que vous prenez la suite]]></description>
+		<content:encoded><![CDATA[<p>Un reportage digne d&rsquo;un Cousteau,quand est ce que vous prenez la suite</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : isa</title>
+		<link>./../comment-page-1/index.html#comment-11654</link>
+		<dc:creator><![CDATA[isa]]></dc:creator>
+		<pubDate>Mon, 08 Apr 2013 14:47:10 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2285#comment-11654</guid>
+		<description><![CDATA[la vidéo est super .. les photos aussi d&#039;ailleurs. J&#039;adore la petite otarie qui se cache derrière ses nageoires.. trop mimi]]></description>
+		<content:encoded><![CDATA[<p>la vidéo est super .. les photos aussi d&rsquo;ailleurs. J&rsquo;adore la petite otarie qui se cache derrière ses nageoires.. trop mimi</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Serge Bouvet</title>
+		<link>./../comment-page-1/index.html#comment-11646</link>
+		<dc:creator><![CDATA[Serge Bouvet]]></dc:creator>
+		<pubDate>Sun, 07 Apr 2013 12:20:32 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2285#comment-11646</guid>
+		<description><![CDATA[La photo des otaries et de la cascade est magnifique !]]></description>
+		<content:encoded><![CDATA[<p>La photo des otaries et de la cascade est magnifique !</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

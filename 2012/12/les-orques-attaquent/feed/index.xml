@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Les orques attaquent</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : zabou</title>
+		<link>./../comment-page-1/index.html#comment-11328</link>
+		<dc:creator><![CDATA[zabou]]></dc:creator>
+		<pubDate>Fri, 28 Dec 2012 08:28:17 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1824#comment-11328</guid>
+		<description><![CDATA[oups.. j&#039;aurais pas tellement envie de patauger dans l&#039;eau non plus...]]></description>
+		<content:encoded><![CDATA[<p>oups.. j&rsquo;aurais pas tellement envie de patauger dans l&rsquo;eau non plus&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Clok</title>
+		<link>./../comment-page-1/index.html#comment-11325</link>
+		<dc:creator><![CDATA[Clok]]></dc:creator>
+		<pubDate>Thu, 27 Dec 2012 13:12:26 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1824#comment-11325</guid>
+		<description><![CDATA[Il va falloir être forts. 
+Car un aveu s&#039;impose, là, tout de suite, tout à trac : vous n&#039;avez ni l&#039;un ni l&#039;autre rien d&#039;un manchot. :p]]></description>
+		<content:encoded><![CDATA[<p>Il va falloir être forts.<br />
+Car un aveu s&rsquo;impose, là, tout de suite, tout à trac : vous n&rsquo;avez ni l&rsquo;un ni l&rsquo;autre rien d&rsquo;un manchot. :p</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : mam'zelle Pirate</title>
+		<link>./../comment-page-1/index.html#comment-11323</link>
+		<dc:creator><![CDATA[mam'zelle Pirate]]></dc:creator>
+		<pubDate>Wed, 26 Dec 2012 10:06:03 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1824#comment-11323</guid>
+		<description><![CDATA[gloups j&#039;aimerai pô être une manchote mouâ !]]></description>
+		<content:encoded><![CDATA[<p>gloups j&rsquo;aimerai pô être une manchote mouâ !</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

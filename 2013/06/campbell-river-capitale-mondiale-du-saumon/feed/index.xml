@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Campbell River, capitale (mondiale) du saumon</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : Valérie</title>
+		<link>./../comment-page-1/index.html#comment-11733</link>
+		<dc:creator><![CDATA[Valérie]]></dc:creator>
+		<pubDate>Mon, 10 Jun 2013 21:05:43 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2471#comment-11733</guid>
+		<description><![CDATA[T&#039;inquiète pas, Isabelle, les animaux m&#039;aiment bien. Et puis, finalement, un cougar, c&#039;est rien d&#039;autre qu&#039;un gros chat. Je l&#039;entend déjà ronronner quand je lui caresserai entre les oreilles...]]></description>
+		<content:encoded><![CDATA[<p>T&rsquo;inquiète pas, Isabelle, les animaux m&rsquo;aiment bien. Et puis, finalement, un cougar, c&rsquo;est rien d&rsquo;autre qu&rsquo;un gros chat. Je l&rsquo;entend déjà ronronner quand je lui caresserai entre les oreilles&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : zabou</title>
+		<link>./../comment-page-1/index.html#comment-11731</link>
+		<dc:creator><![CDATA[zabou]]></dc:creator>
+		<pubDate>Mon, 10 Jun 2013 07:51:54 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=2471#comment-11731</guid>
+		<description><![CDATA[euh ... un cougar ? Non Valérie, tu restes tranquille. Ne t&#039;approche pas ! Tu ne nous refais pas le coup de la baleine svp !]]></description>
+		<content:encoded><![CDATA[<p>euh &#8230; un cougar ? Non Valérie, tu restes tranquille. Ne t&rsquo;approche pas ! Tu ne nous refais pas le coup de la baleine svp !</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

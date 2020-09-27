@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Conduite à l&#8217;argentine</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Le PhotoBlog de Cyril Dhénin. Des clichés au fil des jours. Et des voyages.</description>
+	<lastBuildDate>Sun, 14 Sep 2014 17:37:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Par : Josiane Mathieu sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11337</link>
+		<dc:creator><![CDATA[Josiane Mathieu sur Facebook]]></dc:creator>
+		<pubDate>Sat, 29 Dec 2012 17:25:07 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1811#comment-11337</guid>
+		<description><![CDATA[Merci Cyril pour toutes ces beautés, et ça ne fait que commencer, on t&#039;envie!]]></description>
+		<content:encoded><![CDATA[<p>Merci Cyril pour toutes ces beautés, et ça ne fait que commencer, on t&rsquo;envie!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Cyril Dhenin sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11293</link>
+		<dc:creator><![CDATA[Cyril Dhenin sur Facebook]]></dc:creator>
+		<pubDate>Sun, 23 Dec 2012 19:30:03 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1811#comment-11293</guid>
+		<description><![CDATA[Fabie... Chut ;-)]]></description>
+		<content:encoded><![CDATA[<p>Fabie&#8230; Chut 😉</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Christophe Daniel sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11292</link>
+		<dc:creator><![CDATA[Christophe Daniel sur Facebook]]></dc:creator>
+		<pubDate>Sun, 23 Dec 2012 19:27:38 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1811#comment-11292</guid>
+		<description><![CDATA[une conduite de parisien en Argentine !!! c&#039;est bon ça . Attention aux photographes !!!!]]></description>
+		<content:encoded><![CDATA[<p>une conduite de parisien en Argentine !!! c&rsquo;est bon ça . Attention aux photographes !!!!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Fabienne Guilbert sur Facebook</title>
+		<link>./../comment-page-1/index.html#comment-11291</link>
+		<dc:creator><![CDATA[Fabienne Guilbert sur Facebook]]></dc:creator>
+		<pubDate>Sun, 23 Dec 2012 19:26:05 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1811#comment-11291</guid>
+		<description><![CDATA[Cyril et les voitures... toute une histoire :-)]]></description>
+		<content:encoded><![CDATA[<p>Cyril et les voitures&#8230; toute une histoire 🙂</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
